@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,300&display=swap');
+
+.Footer {
+  position: relative;
+  /* border: 1px solid red; */
+  margin-top: 320px;
+}
+.MainHeading {
+  margin-top: 10px;
+  margin-left: 470px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 79px;
+}
+.numbers {
+  position: relative;
+  margin-left: 870px;
+  font-family: cursive;
+  font-size: 50px;
+  /* font-weight: 200; */
+  color: #FCDA05;
+}
+.bottomtext {
+  margin-left: 470px;
+  font-size: 36px;
+  font-family: "Lato", sans-serif;
+}
+#one {
+  margin-top: 180px;
+}
+#oneText {
+  margin-top: 40px;
+}
+#supprt {
+  margin-left: 340px;
+}
+#two {
+  margin-top: 200px;
+}
+#twoText {
+  margin-top: 40px;
+  margin-left: 580px;
+}
+#delay {
+  margin-left: 130px;
+}
+#three {
+  margin-top: 200px;
+}
+#threeText {
+  margin-top: 40px;
+  margin-left: 560px;
+}
+#human {
+  margin-left: 50px;
+}
+.Startbtn {
+  width: 220px;
+  height: 58px;
+  background: #ffdd00;
+  border-radius: 100px;
+
+  margin-left: 790px;
+  margin-top: 120px;
+  margin-bottom: 10px;
+
+  font-family: 'Prompt', sans-serif;
+  font-size: 15px;
+  font-weight: bolder;
+  transition: all 0.3s linear;
+}
+.Startbtn:hover{
+  cursor: pointer;
+  background-color: #fbfbf7;
+}

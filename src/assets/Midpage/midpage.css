@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* width: 100vw; */
+    /* overflow-x: hidden; */
+}
+.mid{
+    position: relative;
+    left: 470px;
+    top: 100px;
+}
+.text{
+    height: 174px;
+    font-size: 85px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.subtext{
+    position: relative;
+    font-size: 26px;
+    bottom: 1px;
+    left: -25px;
+    margin-top: 35px;
+}
+#yellow{
+    color: #FFDD00;
+}
+.search{
+  position: relative;
+  width: 590px;
+  height: 68px;
+  left: 02px;
+  top: 22px;
+  background: #EFEBEB;
+  box-shadow: 0px 6px 4px rgba(145, 145, 145, 0.25);
+  border-radius: 80px;
+  border:white;
+  padding-left: 35px;
+}
+.btnn{
+    position: relative;
+    background: #f3d306;
+    border-radius: 50px;
+    border: none;
+    height: 67px;
+    width: 140px;
+    cursor: pointer;
+    /* font-weight: bold; */
+    font-family: "Inter";
+    font-size: 16px;
+    z-index: 1;
+    left: 05px;
+    top: 22px;
+}
+.btnn:hover{
+    color: rgb(58, 54, 54);
+}
+input::placeholder{
+    font-size: 20px;
+}    
